@@ -1,4 +1,4 @@
-# cronometro-de-0-60-seg
+# Cronômetro de minutos e segundos!
 <img src="Screenshot_1.png">
 
 <table>
